@@ -12,6 +12,9 @@ body{
     width: 50%;
     padding-left: 5%;
 }
+.header-part p{
+    text-align: justify;
+}
 .text-color{
     color: orange;
 }
@@ -37,6 +40,9 @@ h1{
 .dream-part{
     width: 50%;
     padding-right: 5%;
+}
+.dream-part p{
+    text-align: justify;
 }
 .dream-part img{
     width: 100%;
@@ -64,6 +70,9 @@ h1{
     border-image: linear-gradient(180deg,red,tomato);
     border-image-slice: 1;
     padding: 10px;
+}
+#full-stack p{
+    text-align: justify;
 }
 #baby-web{
     border-left: 7px solid;
